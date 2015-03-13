@@ -11,3 +11,9 @@ Number Theory:
 little_chammys.java : https://www.hackerrank.com/challenges/little-chammys-huge-donation
 reverse_game.java : https://www.hackerrank.com/challenges/reverse-game
 special_multiple.java : https://www.hackerrank.com/challenges/special-multiple
+
+
+Combinatorics:
+diwali_lights.java : https://www.hackerrank.com/challenges/diwali-lights
+coinage.java : https://www.hackerrank.com/challenges/coinage
+ncr_table.java : https://www.hackerrank.com/challenges/ncr-table
