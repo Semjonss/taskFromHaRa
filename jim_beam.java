@@ -82,5 +82,6 @@ public class Solution {
                 System.out.println("YES");
             }
         }
+        in.close();
     }
 }
